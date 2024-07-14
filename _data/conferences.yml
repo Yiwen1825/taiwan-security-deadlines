@@ -29,3 +29,13 @@
     - "2024-7-14 17:00"
   place: Taiwan
   tags: [EDU, ONSITE]
+
+- name: CyberSecurity Summer Camp2024資訊安全暑訓營-線上課程
+  year: 2024
+  date: Aug 5 - Aug 9
+  description: 採非同步線上錄影課程(同學可自行分配影片觀看時間)佐以講師線上Q&A方式
+  link: https://docs.google.com/forms/d/e/1FAIpQLScnX8Dru6hqKx1T7u_n7iZbOYi55hecGoO5-r6FjO25yMwozw/viewform?pli=1
+  deadline:
+    - "2024-7-30 12:00"
+  place: Taiwan
+  tags: [EDU, ONLINE]
